@@ -6,4 +6,11 @@ for i in b:
     if temp > ans:
         ans = temp
 print(ans)
+
+INPUT:
+    156
+OUTPUT:
+    3
  
+    
+    
